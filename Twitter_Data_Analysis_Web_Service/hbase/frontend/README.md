@@ -1,12 +1,4 @@
-/*
- * 15619 team project
- * Team: sudoCloud
- * Member1: Qinyu Tong - qtong
- * Member2: Huacong Cai - hcai
- * Member3: Hansi Mou - hmou
- * 
- */
-
+# Twitter Data Analysis Web Service - Frontend
 
 context/MyServletContextListener.java - initialize application
 controller/QX.java - handle query QX(1-6)
