@@ -1,0 +1,13 @@
+/*
+ * 15619 team project
+ * Team: sudoCloud
+ * Member1: Qinyu Tong - qtong
+ * Member2: Huacong Cai - hcai
+ * Member3: Hansi Mou - hmou
+ * 
+ */
+
+
+context/MyServletContextListener.java - initialize application
+controller/QX.java - handle query QX(1-6)
+data/Q6Data.java - data type for store Q6 data
